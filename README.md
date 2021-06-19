@@ -2,11 +2,11 @@
 Machine learning models for predicting the single-phase synthesizability of HEC carbides (HECCs)
 Link for figure
 # Model I: Artificial neural netwok (ANN)
-### Usage for training
+### Training
 ```
 python 
 ```
-### Usage for predicting
+### Predicting
 ```
 python
 ```
@@ -15,11 +15,11 @@ python
 Line
 
 # Model II: Support vector machine (SVM)
-### Usage for training
+### Training
 ```
 python 
 ```
-### Usage for predicting
+### Predicting
 ```
 python
 ```
@@ -27,3 +27,6 @@ python
 ### For the structural modification of SVM model
 Line
 
+# Other
+### Train a model with your own dataset
+Code line
