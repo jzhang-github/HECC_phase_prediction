@@ -30,3 +30,8 @@ Line
 # Other
 ### Train a model with your own dataset
 Code line
+
+# Results
+| Material | ANN | SVM | Material | ANN | SVM |
+|------ | ------ | ------ |------ | ------ | ------ |
+| test | test | test | test | test | test | test |
