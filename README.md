@@ -11,7 +11,7 @@ python
 python
 ```
 
-### For the structural modification of ANN model
+### For the architecture modification of ANN model
 Line
 
 # Model II: Support vector machine (SVM)
@@ -24,7 +24,7 @@ python
 python
 ```
 
-### For the structural modification of SVM model
+### For the architecture modification of SVM model
 Line
 
 # Other
