@@ -1,6 +1,6 @@
 # HECC phase prediction
 Machine learning models for predicting the single-phase synthesizability of HEC carbides (HECCs)
-Link for figure
+![ML framewok](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/Pictures/ML_frame.svg)
 ## Predict from chemical formula
 ```
 python 
