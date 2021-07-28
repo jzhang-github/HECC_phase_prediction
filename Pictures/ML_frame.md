@@ -1,1 +1,1 @@
-## This is the mechine-learning frame work.
+## This is the mechine-learning framework.
