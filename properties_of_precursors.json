@@ -1,0 +1,13 @@
+{
+"CrC": {"volume_per_formula": 16.55125, "mass_per_formula": 64.007, "density_per_formula": 3.867200363, "VEC_per_formula": 10, "electronegativity_per_formula": 4.21, "total_energy_per_formula": -18.79132726, "reduced_lattice_constant": 2.548454786},
+"HfC": {"volume_per_formula": 25.06875, "mass_per_formula": 190.501, "density_per_formula": 7.599142359, "VEC_per_formula": 8, "electronegativity_per_formula": 3.85, "total_energy_per_formula": -21.05714265, "reduced_lattice_constant": 2.926695635},
+"LaC": {"volume_per_formula": 40.31, "mass_per_formula": 150.9165, "density_per_formula": 3.743897296, "VEC_per_formula": 7, "electronegativity_per_formula": 3.65, "total_energy_per_formula": -13.35009486, "reduced_lattice_constant": 3.428764043},
+"MoC": {"volume_per_formula": 20.8425, "mass_per_formula": 107.951, "density_per_formula": 5.179369078, "VEC_per_formula": 10, "electronegativity_per_formula": 4.71, "total_energy_per_formula": -20.41584287, "reduced_lattice_constant": 2.75200955},
+"NbC": {"volume_per_formula": 22.53625, "mass_per_formula": 104.9174, "density_per_formula": 4.655495036, "VEC_per_formula": 9, "electronegativity_per_formula": 4.15, "total_energy_per_formula": -20.51051028, "reduced_lattice_constant": 2.824623387},
+"TaC": {"volume_per_formula": 22.4775, "mass_per_formula": 192.9589, "density_per_formula": 8.584535647, "VEC_per_formula": 9, "electronegativity_per_formula": 4.05, "total_energy_per_formula": -22.16579077, "reduced_lattice_constant": 2.822166737},
+"TiC": {"volume_per_formula": 20.33875, "mass_per_formula": 59.911, "density_per_formula": 2.945657919, "VEC_per_formula": 8, "electronegativity_per_formula": 4.09, "total_energy_per_formula": -18.71770666, "reduced_lattice_constant": 2.729657048},
+"VC": {"volume_per_formula": 17.9634375, "mass_per_formula": 62.9525, "density_per_formula": 3.504479585, "VEC_per_formula": 9, "electronegativity_per_formula": 4.18, "total_energy_per_formula": -19.06932508, "reduced_lattice_constant": 2.618965731},
+"WC": {"volume_per_formula": 21.06, "mass_per_formula": 195.861, "density_per_formula": 9.30014245, "VEC_per_formula": 10, "electronegativity_per_formula": 4.91, "total_energy_per_formula": -22.48394785, "reduced_lattice_constant": 2.761549225},
+"YC": {"volume_per_formula": 32.80125, "mass_per_formula": 100.9169, "density_per_formula": 3.076617507, "VEC_per_formula": 7, "electronegativity_per_formula": 3.77, "total_energy_per_formula": -15.63383027, "reduced_lattice_constant": 3.201081991},
+"ZrC": {"volume_per_formula": 26.1265625, "mass_per_formula": 103.231, "density_per_formula": 3.951189522, "VEC_per_formula": 8, "electronegativity_per_formula": 3.88, "total_energy_per_formula": -19.47257823, "reduced_lattice_constant": 2.967295224}
+}

@@ -1,0 +1,1 @@
+# Only properties of constituent precursors are included in the saved models.
