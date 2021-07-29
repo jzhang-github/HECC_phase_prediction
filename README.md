@@ -26,7 +26,7 @@ optional arguments:
                         only.
 ```
 
-Any uninstalled modules can be installed by `pip`. For example: `pip install tensorflow` or `conda install numpy`.
+Any uninstalled modules can be installed by `pip` or `anaconda`. For example: `pip install tensorflow` or `conda install numpy`.
 ```
 python 
 ```
