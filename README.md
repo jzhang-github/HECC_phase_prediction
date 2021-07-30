@@ -8,6 +8,9 @@ Machine learning models for predicting the single-phase synthesizability of HEC 
 ```
 python predict_from_formula.py -h
 ```
+
+Any uninstalled modules can be installed by `pip` or `anaconda`. For example: `pip install tensorflow` or `conda install numpy`. 
+
 **Output:**
 ```
 HECC phase prediction.
@@ -26,10 +29,7 @@ optional arguments:
                         only.
 ```
 
-Any uninstalled modules can be installed by `pip` or `anaconda`. For example: `pip install tensorflow` or `conda install numpy`.
-```
-python 
-```
+<br/>
 ### 1.2 Predict single-phase synthesizability from chemical formulas
 **Example:**
 <br/>
@@ -44,6 +44,14 @@ Phase code: Single phase: 0.0; multi phase: 1.0
 Prediction(s) from ANN: 0.049 0.047 1.000
 Prediction(s) from SVM: 0.000 0.000 1.000
 ```
+
+<br/>
+
+**Note:** <br/>
+
+* These formulas give the same result: `TiVCrNbTa`, `Ti1V1C1rNb1Ta1`, `Ti0.2V0.2Cr0.2Nb0.2Ta0.2`, `Ti0.03V0.03Cr0.03Nb0.03Ta0.03`.
+    
+* Direct predictions in the `output` are the `multi-phase probability`, **NOT** the `single-phase probability` because single- and multi-phase samples were labeled as `0` and `1`, respectively. 
 <br/>
 
 ## 2. Model I: [Artificial neural network](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/ANN/ANN_manual.md)
