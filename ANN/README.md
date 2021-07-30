@@ -22,7 +22,7 @@ python CV-NN-ML_parallel.py
 ```
 
 ### 4. Note
-* **Structure of files**
+4.1 Structure of files
 
 Run 
 ```
@@ -56,5 +56,5 @@ ANN
 └── y_data.txt   # Input labels for training
 ```
 
-* **Description of input features**
+4.2 Input features used in ANN model
 ![12 features](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/Pictures/12Features.svg)
