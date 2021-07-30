@@ -148,7 +148,7 @@ if __name__ == '__main__':
                         default='OtherFiles/models/variables.txt',
                         type=str)
     parser.add_argument('--formula',
-                        help='A list of chemical formula that contains the cations only.',
+                        help='A list of chemical formulas that contain the cations only.',
                         nargs='+')
     args = parser.parse_args(sys.argv[1:])
     predictor = HeccPred(args.ann_model_path, args.svm_model_path, args.max_min_path)
