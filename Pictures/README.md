@@ -1,1 +1,1 @@
-## This is the mechine-learning framework.
+## Pictures used in this project.
