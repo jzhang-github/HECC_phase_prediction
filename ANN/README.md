@@ -1,4 +1,4 @@
-# Artificial neural network for predicting HECC phase
+# Artificial neural network for predicting single-phase stability of high-entropy ceramics
 
 ### Default architecture:
 2 hidden layers, 6 nodes per layer.
