@@ -9,7 +9,7 @@ Machine learning models for predicting the single-phase synthesizability of high
 python predict_from_formula.py -h
 ```
 
-Any uninstalled modules can be installed by `pip` or `anaconda`. Click [here](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/docs/InstallDependenciesForHeccPrediction.md) for more details. 
+Any uninstalled modules can be installed by `pip` or [`anaconda`](https://www.anaconda.com/). Click [here](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/docs/InstallDependenciesForHeccPrediction.md) for more details. 
 
 **Output:**
 ```
