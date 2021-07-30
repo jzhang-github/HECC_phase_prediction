@@ -55,10 +55,10 @@ Prediction(s) from SVM: 0.000 0.000 1.000
 * Direct predictions in the `output` are the `multi-phase probability`, **NOT** the `single-phase probability` because single- and multi-phase samples were labeled as `0` and `1`, respectively. 
 <br/>
 
-## 2. Model I: [Artificial neural network](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/ANN/ANN_manual.md)
+## 2. Source code of [Artificial neural network](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/ANN/ANN_manual.md)
 
 
-## 3. Model II: [Support vector machine](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/SVM/SVM_manual.md)
+## 3. Source code of [Support vector machine](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/SVM/SVM_manual.md)
 <br/>  
 
 ## 4. Results
