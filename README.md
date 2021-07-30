@@ -1,6 +1,11 @@
+![ML framewok](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/Pictures/ML_frame.svg)
+
+<br/>
+<br/>
+
 # HECC phase prediction
 Machine learning models for predicting the single-phase synthesizability of high-entropy-ceramic carbides (HECCs)
-![ML framewok](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/Pictures/ML_frame.svg)
+
 ## 1. Quick prediction from chemical formulas
 
  ### 1.1 Print help tab
