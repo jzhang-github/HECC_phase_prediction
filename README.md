@@ -53,9 +53,9 @@ Prediction(s) from SVM: 0.000 0.000 1.000
 * These formulas give the same result: `TiVCrNbTa`, `Ti1V1C1rNb1Ta1`, `Ti0.2V0.2Cr0.2Nb0.2Ta0.2`, `Ti0.03V0.03Cr0.03Nb0.03Ta0.03`.
     
 * Direct predictions in the `output` are the `multi-phase probability`, **NOT** the `single-phase probability` because single- and multi-phase samples were labeled as `0` and `1`, respectively. 
-* These models for quick prediction were trained solely on properties of constituent carbides. As shown below:
+<!--* These models for quick prediction were trained solely on properties of constituent carbides. As shown below:
 ![10 features](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/Pictures/10Features.svg)
-* For models on all independent features in the original paper, please refer to [ANN](https://github.com/jzhang-github/HECC_phase_prediction#2-source-code-of-artificial-neural-network) and [SVM](https://github.com/jzhang-github/HECC_phase_prediction#3-source-code-of-support-vector-machine)
+; * For models on all independent features in the original paper, please refer to [ANN](https://github.com/jzhang-github/HECC_phase_prediction#2-source-code-of-artificial-neural-network) and [SVM](https://github.com/jzhang-github/HECC_phase_prediction#3-source-code-of-support-vector-machine)-->
 <br/>
 <br/>
 
