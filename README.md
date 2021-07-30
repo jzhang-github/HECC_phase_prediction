@@ -9,7 +9,7 @@ Machine learning models for predicting the single-phase synthesizability of HEC 
 python predict_from_formula.py -h
 ```
 
-Any uninstalled modules can be installed by `pip` or `anaconda`. For example: `pip install tensorflow` or `conda install numpy`. 
+Any uninstalled modules can be installed by `pip` or `anaconda`. Click [here](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/docs/InstallDependenciesForHeccPrediction.md) for more details. 
 
 **Output:**
 ```
