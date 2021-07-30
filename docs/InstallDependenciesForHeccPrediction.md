@@ -2,19 +2,23 @@
 
 If you have `ModuleNotFoundError` when you run `python predict_from_formula.py -h`, you can install it using `pip` or `conda`.
 
+**Example:**
 **Error**
 ```
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-ModuleNotFoundError: No module named 'module'
+ModuleNotFoundError: No module named 'numpy'
 ```
 
 **run**
 ```
-pip install module
+pip install numpy
+```
 
-# or
-conda install module
+or
+
+```
+conda install numpy
 ```
 
 **Dependent modules used in this project**
