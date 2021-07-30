@@ -30,6 +30,7 @@ optional arguments:
 ```
 
 <br/>
+
 ### 1.2 Predict single-phase synthesizability from chemical formulas
 **Example:**
 <br/>
