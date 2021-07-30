@@ -59,10 +59,10 @@ Prediction(s) from SVM: 0.000 0.000 1.000
 <br/>
 <br/>
 
-## 2. Source code of [Artificial neural network](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/ANN/ANN_manual.md)
+## 2. Source code of [Artificial neural network](https://github.com/jzhang-github/HECC_phase_prediction/tree/main/ANN)
 
 
-## 3. Source code of [Support vector machine](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/SVM/SVM_manual.md)
+## 3. Source code of [Support vector machine](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/SVM)
 <br/>  
 
 ## 4. Results
