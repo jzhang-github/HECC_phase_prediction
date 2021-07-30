@@ -1,8 +1,9 @@
-**Install dependencies**
+## Install dependencies
 
 If you have `ModuleNotFoundError` when you run `python predict_from_formula.py -h`, you can install it using `pip` or `conda`.
 
 **Example:**
+
 **Error**
 ```
 Traceback (most recent call last):
