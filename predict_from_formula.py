@@ -5,9 +5,7 @@ Created on Thu Jul 29 17:14:59 2021
 @author: ZHANG Jun
 """
 
-from sys import argv
 import numpy as np
-from pymatgen.core.composition import Composition
 from pymatgen.core.ion import Ion
 import json
 import os
