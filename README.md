@@ -1,4 +1,4 @@
-![ML framewok](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/Pictures/ML_frame.svg)
+![ML framewok](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/imgs/ML%20framework.svg)
 
 <br/>
 <br/>
