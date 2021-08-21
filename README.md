@@ -70,7 +70,18 @@ Prediction(s) from SVM: 0.000 0.000 1.000
 ## 3. Source code of [Support vector machine](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/SVM)
 <br/>  
 
-## 4. Results
-| Material | ANN | SVM | Material | ANN | SVM |
-|------ | ------ | ------ |------ | ------ | ------ |
-| test | test | test | test | test | test | test |
+## 4. Input features used in refined models
+<br/>
+
+| Feature | Description | 
+|------ | ------ |  
+| ΔS<sub>mix</sub> | Mixing entropy |
+| V<sub>average</sub> | Average volume of constituent TMCs per formula unit |
+| σ<sub>V</sub> | Volume deviation of constituent TMCs |
+| m<sub>average</sub> | Average mass of constituent TMCs per formula unit |
+| σ<sub>m</sub> | Mass deviation of constituent TMCs |
+| ρ<sub>average</sub> | Average density of constituent TMCs |
+| σ<sub>ρ</sub> | Density deviation of constituent TMCs |
+| σ<sub>χ</sub> | Deviation of electronegativity of constituent TMCs |
+| VEC<sub>average</sub> | Valence electron concentration (VEC) of HECC candidates |
+| σ<sub>VEC</sub> | VEC deviation of constituent TMCs |
