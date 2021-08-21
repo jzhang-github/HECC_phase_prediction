@@ -44,4 +44,19 @@ SVM
 ```
 
 4.2 Input features used in SVM model
-![12 features](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/Pictures/12Features.svg)
+<br/>
+
+| Feature | Description | 
+|------ | ------ | 
+| ΔH<sub>mix</sub> | Mixing enthalpy per formula unit | 
+| ΔV<sub>mix</sub> | Volume change per formula unit due to mixing |
+| ΔS<sub>mix</sub> | Mixing entropy |
+| V<sub>average</sub> | Average volume of constituent TMCs per formula unit |
+| σ<sub>V</sub> | Volume deviation of constituent TMCs |
+| m<sub>average</sub> | Average mass of constituent TMCs per formula unit |
+| σ<sub>m</sub> | Mass deviation of constituent TMCs |
+| ρ<sub>average</sub> | Average density of constituent TMCs |
+| σ<sub>ρ</sub> | Density deviation of constituent TMCs |
+| σ<sub>χ</sub> | Deviation of electronegativity of constituent TMCs |
+| VEC<sub>average</sub> | Valence electron concentration (VEC) of HECC candidates |
+| σ<sub>VEC</sub> | VEC deviation of constituent TMCs |
