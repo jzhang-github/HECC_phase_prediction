@@ -85,6 +85,7 @@ Prediction(s) from SVM: 0.000 0.000 1.000
 | VEC<sub>average</sub> | Valence electron concentration (VEC) of HECC candidates |
 | σ<sub>VEC</sub> | VEC deviation of constituent TMCs |
 
+**Data of all input features:** click [here](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/docs/Input%20data.csv)
 ## 5. Dependent modules used in this project
 
 * numpy==1.19.5
