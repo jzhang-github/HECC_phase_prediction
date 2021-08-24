@@ -71,7 +71,6 @@ Prediction(s) from SVM: 0.000 0.000 1.000
 <br/>  
 
 ## 4. Input features used in refined models
-<br/>
 
 | Feature | Description | 
 |------ | ------ |  
