@@ -85,3 +85,10 @@ Prediction(s) from SVM: 0.000 0.000 1.000
 | σ<sub>χ</sub> | Deviation of electronegativity of constituent TMCs |
 | VEC<sub>average</sub> | Valence electron concentration (VEC) of HECC candidates |
 | σ<sub>VEC</sub> | VEC deviation of constituent TMCs |
+
+## 5. Dependent modules used in this project
+
+* numpy==1.19.5
+* pymatgen==2020.11.11
+* tensorflow==2.4.1
+* scikit-learn==0.24.1
