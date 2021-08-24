@@ -88,6 +88,7 @@ Prediction(s) from SVM: 0.000 0.000 1.000
 **Data of all input features:** click [here](https://github.com/jzhang-github/HECC_phase_prediction/blob/main/docs/Input%20data.csv)
 ## 5. Dependent modules used in this project
 
+* **Python 3.8.5**
 * numpy==1.19.5
 * pymatgen==2020.11.11
 * tensorflow==2.4.1
