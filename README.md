@@ -2,7 +2,9 @@
 
 <br/>
 <br/>
+
 # HECC phase prediction
+
 Machine learning models for predicting the single-phase synthesizability of high-entropy-ceramic carbides (HECCs)
 
 # Note:
