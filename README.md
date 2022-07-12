@@ -2,9 +2,11 @@
 
 <br/>
 <br/>
-
 # HECC phase prediction
 Machine learning models for predicting the single-phase synthesizability of high-entropy-ceramic carbides (HECCs)
+
+# Note:
+**If you found strange errors for running scripts under this repo on Windows, please try again on Linux instead.**
 
 ## 1. Quick prediction from chemical formulas
 
